@@ -76,13 +76,10 @@ HTML / CSS / JavaScriptで制作したエコバッグのEC風LPです。
 
 ---
 
-##公開URL
+##公開URL  https://atom2344.github.io/Shopping/
 
 
 
 
 ---
 
-## 制作者
-
-Haruya Kawasaki
