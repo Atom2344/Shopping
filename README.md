@@ -1,7 +1,7 @@
 # shopping
 
 HTML / CSS / JavaScriptで制作したエコバッグのEC風LPです。  
-モダンなUIデザイン、LocalStorageを使ったカート機能、スクロールアニメーション、レスポンシブ対応を意識して制作しました。
+モダンなUIデザイン、LocalStorageを使ったカート機能、スクロールアニメーションを意識して制作しました。
 
 ---
 
@@ -14,7 +14,6 @@ HTML / CSS / JavaScriptで制作したエコバッグのEC風LPです。
 - カートページ
 - 商品削除機能
 - IntersectionObserverを使ったスクロールアニメーション
-- レスポンシブレイアウト
 - dialog要素を使ったモーダル表示
 
 ---
@@ -45,7 +44,6 @@ HTML / CSS / JavaScriptで制作したエコバッグのEC風LPです。
 - 状態管理
 - LocalStorageを使ったデータ保持
 - 動的レンダリング
-- モーダル制御
 - CSS Grid / Flexbox
 - スクロールアニメーション
 
